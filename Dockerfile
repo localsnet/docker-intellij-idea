@@ -1,4 +1,4 @@
-FROM adoptopenjdk/openjdk8
+FROM n3ziniuka5/ubuntu-oracle-jdk:16.04-JDK7
 
 LABEL maintainer "Viktor Adam <rycus86@gmail.com>"
 
